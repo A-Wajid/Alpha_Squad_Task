@@ -1,6 +1,6 @@
 .Logo_div{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 .Logo_div img{
     height: 120px;
